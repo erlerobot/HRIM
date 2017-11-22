@@ -2,7 +2,7 @@ std_msgs/Header header
 
 string joint_name
 
-# type of control to move the rotary servomotor: position
+# type of control to move the rotary servomotor
 uint8 CONTROL_TYPE_POSITION=0
 uint8 CONTROL_TYPE_POSITION_VELOCITY=1
 uint8 CONTROL_TYPE_POSITION_VELOCITY_EFFORT=0
